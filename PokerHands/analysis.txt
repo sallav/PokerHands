@@ -1,0 +1,5 @@
+run:
+Kortit: Pata 9, Risti 9, Risti J, Hertta Q, Risti A, Pokerikädet: pari
+Kortit: Hertta 3, Hertta 4, Hertta 7, Ruutu J, Ruutu Q, Pokerikädet: Q high
+Kortit: Ruutu 3, Ruutu 4, Pata 6, Hertta 8, Risti 8, Pokerikädet: pari
+BUILD SUCCESSFUL (total time: 0 seconds)
